@@ -5,7 +5,7 @@ export default class SmallButton extends React.Component {
     render() {
         return (
             <div>
-                <button>知乎</button>
+                <button>知乎 AA</button>
             </div>
         );
     }
